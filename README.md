@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An online and local party game of teamwork and betrayal for 4-15 players...in space!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 x32bit / Rec: Windows 10 x64bit | macOS 11.0 or later |
+| **Processor** | INTEL i3-4330 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 1 GB RAM / Rec: 4 GB RAM | 1 GB RAM |
+| **Graphics** | Min: INTEL HD Graphics 4600 / Rec: Nvidia GTX 650 | Metal-capable GPU |
 
 ---
 
